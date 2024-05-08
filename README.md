@@ -23,9 +23,9 @@ I developed a love for computers at a young age, and my curiosity led me to beco
 - [SQL and Relational Databases 101](	https://courses.cognitiveclass.ai/certificates/d1156f28067f4836a26fa1dcb540a44a)
 
 ## Skill Sets
-- **Programming:** Java, JavaScript, Python, C++
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VisualCode
+- **Programming:** Java, JavaScript, Python, Kotlin, Bash
+- **Databases:** IBM DB2 Cloud, MongoDB
+- **Tools:** Lucidchart, Pentaho, Eclipse, VisualCode, Android Studio
 
 ## Get in Touch
 - Email: zaileybutalon@gmail.com
